@@ -120,10 +120,7 @@ Diabetes-Risk-Classification-System/
 
 ## 🌐 Live Demo
 
-**Vercel Deployment**
-
-https://diabetes-risk-classification-system.vercel.app
-
+https://diabetes-risk-classification-system.vercel.app/
 
 
 
