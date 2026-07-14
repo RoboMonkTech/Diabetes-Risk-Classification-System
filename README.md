@@ -123,9 +123,9 @@ Diabetes-Risk-Classification-System/
 **Vercel Deployment**
 
 https://diabetes-risk-classification-system.vercel.app/
----
 
----
+
+
 
 ## 📄 License
 
